@@ -9,6 +9,7 @@
 
 
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/80299170/196387086-7faa387b-0da9-4952-a036-43218a531b2e.gif)
 
 ## 필요 셋팅
 - MineCraft 1.19.2
