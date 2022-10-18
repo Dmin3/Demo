@@ -6,7 +6,10 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80299170/196383348-723f89a3-9929-4fb5-902e-a1165db7170b.gif)
 
 ### - 명령어 현재 플레이어 좌표 리턴
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/80299170/196383519-10157861-ffd5-4305-83a5-6f794b19cf4a.gif)
+
+
+
+
 
 ## 필요 셋팅
 - MineCraft 1.19.2
