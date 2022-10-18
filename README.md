@@ -34,10 +34,11 @@
 프로젝트 맨 하단에 [Terminal] 클릭 -> gradlew와 같은 경로에 있는지 확인 -> (Mac 기준)`./gradlew wrapper --gradle-version 7.5` 입력 후 build successful! 초록색 문장이 뜬다면 성공!
 
 
-[스크린샷 2022-10-18 오후 5 09 24](https://user-images.githubusercontent.com/80299170/196373762-41a4e249-607c-41b7-8ddb-aa7be3191b71.png)
+(Mac 기준) 버전 확인
+`./gradlew -v` 7.5 인지 버전 확인
 
 
-(Mac 기준)`./gradlew -v` 
+![스크린샷 2022-10-18 오후 5 14 06](https://user-images.githubusercontent.com/80299170/196374830-eb9252f3-475c-410f-bd4e-1ba8ebc4dcce.png)
 
 
 
