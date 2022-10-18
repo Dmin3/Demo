@@ -1,7 +1,7 @@
 # MineCraft-Demo-Plugin
 ⛏ 마인크래프트 플러그인 만들어보기 ⛏
 
-## 구현 기능
+## 구현 기능 (추가중..)
 ### 서버 입장 시 타이틀
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80299170/196383348-723f89a3-9929-4fb5-902e-a1165db7170b.gif)
 
