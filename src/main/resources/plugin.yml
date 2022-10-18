@@ -1,0 +1,11 @@
+name: JKPlugin # 플러그인 이름
+version: 1.0 # 플러그인 버전
+author: JINKI
+description: Frist MineCreft plugin
+main: com.example.demo.Main
+
+commands:
+  location:
+    description: 좌표찍기
+    usage: /location
+    aliases: [/zpp, /xyz]
