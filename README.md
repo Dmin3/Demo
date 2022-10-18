@@ -40,6 +40,36 @@
 
 ![스크린샷 2022-10-18 오후 5 14 06](https://user-images.githubusercontent.com/80299170/196374830-eb9252f3-475c-410f-bd4e-1ba8ebc4dcce.png)
 
+## 4. build.gradel 설정
+```Groovy
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    maven {
+        url "https://hub.spigotmc.org/nexus/content/repositories/snapshots/" // URL 
+    }
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    implementation "org.spigotmc:spigot-api:1.19.2-R0.1-SNAPSHOT" // 마인크래프트 버전에 맞게 설정
+}
+
+test {
+    useJUnitPlatform()
+}
+```
+
+주석처리한 곳들만 추가해주면 된다. -> 우측상단에 코끼리 모양 클릭 하여 라이브러리 다운로드
+
+
 
 
 
