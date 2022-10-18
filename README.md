@@ -8,6 +8,10 @@
 - Gradle 7.5
 - JDK 18
 
+## 마인크래프트 서버 다운로드 및 기본 설정
+- [다운로드 링크](https://getbukkit.org/get/7d4d4901bb1f641da6a9882c69d5fd54)
+- [서버 기본 설정](https://blackdol.tistory.com/m/13) 
+
 ## 1. 인텔리제이 프로젝트 셋팅
 [New ProJect] -> [Gradle] -> [Java 체크] -> [Project SDK가 JDK 18 버전인지 확인]
 
@@ -68,6 +72,9 @@ test {
 ```
 
 주석처리한 곳들만 추가해주면 된다. -> 우측상단에 코끼리 모양 클릭 하여 라이브러리 다운로드
+
+## 5. src 폴더가 없다면?
+- [참고 링크] (https://torbjorn.tistory.com/m/723)
 
 
 
