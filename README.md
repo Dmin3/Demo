@@ -28,7 +28,20 @@
 
 ![스크린샷 2022-10-18 오후 5 02 37](https://user-images.githubusercontent.com/80299170/196372192-49cf66a2-4e99-46a9-87c4-99e07dfc7514.png)
 
-'Gradle 7.1 버전은 자바 18버전은 지원해주지 않는다'라고 하는데 프로젝트 생성 후 Gradle 업글레이드 해주면 되기 때문에 일단 무시
+'Gradle 7.1 버전은 자바 18버전은 지원해주지 않는다'라고 하는데 프로젝트 생성 후 Gradle 업그레이드 해주면 되기 때문에 일단 무시 후 [Yes] 클릭 -> [프로젝트 이름 설정] -> [Finish]
+
+## 3. Gradle 버전을 바꾸자
+프로젝트 맨 하단에 [Terminal] 클릭 -> gradlew와 같은 경로에 있는지 확인 -> (Mac 기준)`./gradlew wrapper --gradle-version 7.5` 입력 후 build successful! 초록색 문장이 뜬다면 성공!
+
+
+[스크린샷 2022-10-18 오후 5 09 24](https://user-images.githubusercontent.com/80299170/196373762-41a4e249-607c-41b7-8ddb-aa7be3191b71.png)
+
+
+(Mac 기준)`./gradlew -v` 
+
+
+
+
 
 
 
