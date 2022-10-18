@@ -76,8 +76,16 @@ test {
 ## 5. 프로젝트 안에 src 폴더가 없다면?
 - [참고 링크] (https://torbjorn.tistory.com/m/723)
 
+## 6. plugin.yml 작성
+main 패키지 안에 resource 폴더 안에 작성
 
-
+```YAML
+name: JKPlugin # 플러그인 이름 (필수)
+version: 1.0 # 플러그인 버전 (필수)
+author: JINKI # 작성자
+description: Frist MineCreft plugin # 설명
+main: com.example.demo.Main # 실행할 클래스 이름과 동일 해야함(저자는 Main 클래스 사용 중) (필수)
+```
 
 
 
