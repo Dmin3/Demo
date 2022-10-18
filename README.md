@@ -44,7 +44,7 @@
 
 ![스크린샷 2022-10-18 오후 5 14 06](https://user-images.githubusercontent.com/80299170/196374830-eb9252f3-475c-410f-bd4e-1ba8ebc4dcce.png)
 
-## 4. build.gradel 설정
+## 4. build.gradle 설정
 ```Groovy
 plugins {
     id 'java'
